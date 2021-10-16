@@ -7,13 +7,13 @@ Detailed Blog: https://medium.com/@vanpariyavishal02/toxicity-of-the-comment-by-
 Contents:
 |S.No |	Section                                         |	Jupyter Notebook                                     |
 |-----|-------------------------------------------------|------------------------------------------------------
-|1.   | Baseline Model                                  | Jigsaw-baseline.ipynb                                |
-|2.   | Machine Learning Models                         | ML_model.ipynb                                       |
-|3.   | EDA File                                        | jigsaw-eda.ipynb                                     |
+|1.   | EDA File                                        | jigsaw-eda.ipynb                                     |
+|2.   | Baseline Model                                  | Jigsaw-baseline.ipynb                                |
+|3.   | Machine Learning Models                         | ML_model.ipynb                                       |
 |4.   | Model-1 containes 2 LSTM and one attention layer| bi-lstm-attention.ipynb                              |
 |5.   | Model-2 Stacked LSTM with fasttext and w2v      | Stacked-lstm-fasttext-glove.ipynb                    |
 |6.   | Model-3 2 LSTM and 2 Attention layers           | bi-lstm-bi-attention.ipynb                           |
 |7.   | Feature extraction for BERT                     | BERT_FE.ipynb                                        |
 |8.   | Bert training                                   | BERT.ipynb                                           |
-|9.   | final_function.ipynb                            | End-to-End piepline class                            |
-|10.  | Deployment_code.ipynb                           | Deployment Code on GCP                               |
+|9.   | End-to-End piepline class                       | final_function.ipynb                                 |
+|10.  | Deployment Code on GCP                          | Deployment_code.ipynb                                |
